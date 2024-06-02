@@ -22,7 +22,7 @@ Implementation of Reliable Large Datagram Protocol (RLDP) in safe Rust. RLDP is 
 
 ### Prerequisites
 
-Rust complier v1.65+.
+Rust compiler v1.65+.
 
 ### Installing
 
